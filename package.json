@@ -1,0 +1,36 @@
+{
+  "name": "SignalRChatAngular",
+  "version": "1.0.0",
+  "private": true,
+  "description": "simple signalR Chat Angular microsoft tutorial",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=development --watch",
+    "release": "webpack --mode=production",
+    "publish": "npm run release && dotnet publish -c Release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickco75/SignalRChatAngular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickco75/SignalRChatAngular/issues"
+  },
+  "homepage": "https://github.com/rickco75/SignalRChatAngular#readme",
+  "devDependencies": {
+    "clean-webpack-plugin": "1.0.1",
+    "css-loader": "2.1.0",
+    "html-webpack-plugin": "4.0.0-beta.5",
+    "mini-css-extract-plugin": "0.5.0",
+    "ts-loader": "5.3.3",
+    "typescript": "3.3.3",
+    "webpack": "4.29.3",
+    "webpack-cli": "3.2.3"
+  },
+  "dependencies": {
+    "@aspnet/signalr": "^1.1.4"
+  }
+}

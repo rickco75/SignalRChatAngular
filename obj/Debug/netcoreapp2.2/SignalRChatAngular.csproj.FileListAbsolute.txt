@@ -1,0 +1,14 @@
+C:\Users\rickc\Documents\repos\SignalRChatAngular\bin\Debug\netcoreapp2.2\SignalRChatAngular.deps.json
+C:\Users\rickc\Documents\repos\SignalRChatAngular\bin\Debug\netcoreapp2.2\SignalRChatAngular.runtimeconfig.json
+C:\Users\rickc\Documents\repos\SignalRChatAngular\bin\Debug\netcoreapp2.2\SignalRChatAngular.runtimeconfig.dev.json
+C:\Users\rickc\Documents\repos\SignalRChatAngular\bin\Debug\netcoreapp2.2\SignalRChatAngular.dll
+C:\Users\rickc\Documents\repos\SignalRChatAngular\bin\Debug\netcoreapp2.2\SignalRChatAngular.pdb
+C:\Users\rickc\Documents\repos\SignalRChatAngular\obj\Debug\netcoreapp2.2\SignalRChatAngular.csprojAssemblyReference.cache
+C:\Users\rickc\Documents\repos\SignalRChatAngular\obj\Debug\netcoreapp2.2\SignalRChatAngular.csproj.CoreCompileInputs.cache
+C:\Users\rickc\Documents\repos\SignalRChatAngular\obj\Debug\netcoreapp2.2\SignalRChatAngular.RazorAssemblyInfo.cache
+C:\Users\rickc\Documents\repos\SignalRChatAngular\obj\Debug\netcoreapp2.2\SignalRChatAngular.RazorAssemblyInfo.cs
+C:\Users\rickc\Documents\repos\SignalRChatAngular\obj\Debug\netcoreapp2.2\SignalRChatAngular.AssemblyInfoInputs.cache
+C:\Users\rickc\Documents\repos\SignalRChatAngular\obj\Debug\netcoreapp2.2\SignalRChatAngular.AssemblyInfo.cs
+C:\Users\rickc\Documents\repos\SignalRChatAngular\obj\Debug\netcoreapp2.2\SignalRChatAngular.RazorTargetAssemblyInfo.cache
+C:\Users\rickc\Documents\repos\SignalRChatAngular\obj\Debug\netcoreapp2.2\SignalRChatAngular.dll
+C:\Users\rickc\Documents\repos\SignalRChatAngular\obj\Debug\netcoreapp2.2\SignalRChatAngular.pdb
